@@ -2,12 +2,12 @@
 A multiple choice quiz build with html, css and JavaScript. This quiz can be viewed/played in a web browswer and is also responsive on screens of 768px and 575px.
 
 
-# JavaScriptQuiz
+# User Story
 AS A coding boot camp student
 I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
 SO THAT I can gauge my progress compared to my peers
 
-# JavaScriptQuiz
+# Acceptance Criteria
 GIVEN I am taking a code quiz
 WHEN I click the start button
 THEN a timer starts and I am presented with a question
